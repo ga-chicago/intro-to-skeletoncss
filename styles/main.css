@@ -1,0 +1,18 @@
+.awesome {
+	color: red;
+	font-weight: bold;
+	font-family: 'Georgia', serif;
+}
+
+.user-profile-bar {
+	background: black;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 60px;
+}
+
+.fancy-button {
+	background: lime;
+	font-weight: italic;
+	font-size: 2rem;
+}
